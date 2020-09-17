@@ -8,4 +8,4 @@ bool DogishHelper(std::string word, char letter, char endLetter);
 bool InDogish(std::string);
 bool isFound(bool found[], int length);
 bool InXish(std::string myText, std::string myWord);
-#endif 
+#endif
